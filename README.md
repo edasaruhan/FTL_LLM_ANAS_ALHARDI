@@ -1,7 +1,7 @@
-## Text Summarization Using 'philschmid/flan-t5-base-samsum'
+# Text Summarization Using 'philschmid/flan-t5-base-samsum'
 
 
-Description
+## Description
 This project aims to create a model for summarizing long texts into short, concise summaries using the pre-trained 'philschmid/flan-t5-base-samsum' model from the Hugging Face library.
 
 ## Objective
